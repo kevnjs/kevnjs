@@ -2,12 +2,18 @@
 
 I'm an upcoming Front End Developer
 
-Some of my skills include :
+My Front-End Stack Strengths are:
 - Javascript
 - React
-- SQL
 - HTML, CSS
 
+Some libraries / frameworks I have experience with are :
+- Tailwind CSS
+- Axios
+- Yup
+- Vite
+- Ant Design
+- React Native / Electron
 
 
 <!--
