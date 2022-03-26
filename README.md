@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin 🌞
 
-I'm an upcoming Front End Developer
+I'm an upcoming Front End Developer, and I'm working on my newfound skills to create amazing new projects
 
 My Front-End Stack Strengths are:
 - Javascript
