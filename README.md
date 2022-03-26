@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Kevin 🌞
+
+I'm an upcoming Front End Developer
+
+Some of my skills include :
+- Javascript
+- React
+- SQL
+- HTML, CSS
+
+
 
 <!--
 **kevnjs/kevnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
