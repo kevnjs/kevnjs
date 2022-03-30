@@ -1,4 +1,4 @@
-### Hi there, What's poppin... I'm Kevin 🌞 !
+### Hi there, I'm Kevin 🌞 !
 
 I'm an upcoming Front End Developer, and I'm working on my newfound skills to create amazing new projects
 
