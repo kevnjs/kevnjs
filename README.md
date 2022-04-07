@@ -13,7 +13,7 @@ Some libraries / frameworks I have experience with are :
 - Yup
 - Vite
 - Ant Design
-- React Native / Electron
+- React Native
 
 
 <!--
