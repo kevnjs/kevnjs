@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin 🌞 !
 
-I'm aront End Developer, and I'm working on my newfound skills to create amazing new projects. Currently in my Junior dev arc in my life anime
+I'm a Front End Developer, and I'm working on my newfound skills to create amazing new projects. Currently in my Junior dev arc in my life anime
 
 My Front-End Stack Strengths are:
 - Javascript
